@@ -1,0 +1,2 @@
+# segmentacion
+ejemplo de segmentacion
